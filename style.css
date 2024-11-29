@@ -12,7 +12,11 @@ header {
 }
 
 
-
+section {
+    background: rgb(31, 31, 31);
+    padding-bottom:80px;
+    padding-top: 80px;
+}
 
 
 
